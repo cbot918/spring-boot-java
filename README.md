@@ -2,7 +2,7 @@
 
 0. 環境設定一下
 
-   0.1 裝一下 maven: java 用的套件管理( 對標 npm )
+   0.1 裝一下 maven: java 用的套件管理( 對標 npm, 可以參考一下網路教學 )
 
    0.2 jdk jre 需要 17 ( 裝一下 jdk/jre17, 然後 JAVA_HOME 設定過去, 可以參考一下網路教學)
 
